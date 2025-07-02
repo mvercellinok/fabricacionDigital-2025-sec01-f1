@@ -1,4 +1,4 @@
-# FabricaciónDigital-2025-secc01-f1
+# Fabricación Digital 2025 SECC1 Diorama Formula1
 Entrega curso fabricación digital udd
 
 
